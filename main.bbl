@@ -1,31 +1,65 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-Bj{\o}rner%
+Barlow%
+\ \BBA {} Levick%
 }{%
-Bj{\o}rner%
+Barlow%
+\ \BBA {} Levick%
 }{%
-{\protect \APACyear {2015}}%
+{\protect \APACyear {1965}}%
 }]{%
-bjoernerBog}
+Barlow1965}
 \APACinsertmetastar {%
-bjoernerBog}%
+Barlow1965}%
 \begin{APACrefauthors}%
-Bj{\o}rner, T.%
+Barlow, H\BPBI B.%
+\BCBT {}\ \BBA {} Levick, W\BPBI R.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{2015}.
+\APACrefYearMonthDay{1965}{Jun}{}.
 \newblock
-\APACrefbtitle {Qualitative Methods for Consumer Research: The Value of the
-  Qualitative Approach in Theory and Practice} {Qualitative methods for
-  consumer research: The value of the qualitative approach in theory and
-  practice}.
+{\BBOQ}\APACrefatitle {The mechanism of directionally selective units in
+  rabbit's retina.} {The mechanism of directionally selective units in rabbit's
+  retina.}{\BBCQ}
 \newblock
-\APACaddressPublisher{}{Gyldendal Akademisk}.
+\APACjournalVolNumPages{J Physiol}{178}{3}{477-504}.
 \newblock
-\begin{APACrefURL} \url{https://books.google.dk/books?id=xAjtrQEACAAJ}
+\begin{APACrefURL} \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1357309/}
   \end{APACrefURL}
+\newblock
+\APACrefnote{5827909[pmid]}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Borst%
+\ \BBA {} Helmstaedter%
+}{%
+Borst%
+\ \BBA {} Helmstaedter%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+review}
+\APACinsertmetastar {%
+review}%
+\begin{APACrefauthors}%
+Borst, A.%
+\BCBT {}\ \BBA {} Helmstaedter, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{Jun}{29}.
+\newblock
+{\BBOQ}\APACrefatitle {Common circuit design in fly and mammalian motion
+  vision} {Common circuit design in fly and mammalian motion vision}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Nature Neuroscience}{18}{}{1067 EP -}.
+\newblock
+\begin{APACrefURL} \url{http://dx.doi.org/10.1038/nn.4050} \end{APACrefURL}
+\newblock
+\APACrefnote{Review Article}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -63,6 +97,54 @@ Palmisano%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.3389/fpsyg.2015.00193} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Reichardt%
+}{%
+Reichardt%
+}{%
+{\protect \APACyear {1961}}%
+}]{%
+beetle}
+\APACinsertmetastar {%
+beetle}%
+\begin{APACrefauthors}%
+Reichardt, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1961}{01}{}.
+\newblock
+\APACrefbtitle {Autocorrelation, a Principle for the Evaluation of Sensory
+  Information by the Central Nervous System.} {Autocorrelation, a principle for
+  the evaluation of sensory information by the central nervous system.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Yantis%
+\ \BBA {} Abrams%
+}{%
+Yantis%
+\ \BBA {} Abrams%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+coursebook}
+\APACinsertmetastar {%
+coursebook}%
+\begin{APACrefauthors}%
+Yantis, S.%
+\BCBT {}\ \BBA {} Abrams, R\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Sensation and perception} {Sensation and perception}\
+  (\BVOL~2).
+\newblock
+\APACaddressPublisher{}{Worth Publishers, Macmillan Learning}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
