@@ -1,16 +1,68 @@
-\begin{thebibliography}{1}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{}
 
-\bibitem[Bj{\o}rner(2015)]{bjoernerBog}
-T.~Bj{\o}rner.
-\newblock \emph{Qualitative Methods for Consumer Research: The Value of the
-  Qualitative Approach in Theory and Practice}.
-\newblock Gyldendal Akademisk, 2015.
-\newblock ISBN 9788741258539.
-\newblock URL \url{https://books.google.dk/books?id=xAjtrQEACAAJ}.
+\bibitem [\protect \citeauthoryear {%
+Bj{\o}rner%
+}{%
+Bj{\o}rner%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+bjoernerBog}
+\APACinsertmetastar {%
+bjoernerBog}%
+\begin{APACrefauthors}%
+Bj{\o}rner, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2015}.
+\newblock
+\APACrefbtitle {Qualitative Methods for Consumer Research: The Value of the
+  Qualitative Approach in Theory and Practice} {Qualitative methods for
+  consumer research: The value of the qualitative approach in theory and
+  practice}.
+\newblock
+\APACaddressPublisher{}{Gyldendal Akademisk}.
+\newblock
+\begin{APACrefURL} \url{https://books.google.dk/books?id=xAjtrQEACAAJ}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Palmisano%
+\ \protect \BOthers {.}}{%
+Palmisano%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+challenges}
+\APACinsertmetastar {%
+challenges}%
+\begin{APACrefauthors}%
+Palmisano%
+, Stephen%
+, Allison%
+, S, R.%
+, Schira%
+, M, M.%
+\BDBL {}J, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Future challenges for vection research: definitions,
+  functional significance, measures, and neural bases} {Future challenges for
+  vection research: definitions, functional significance, measures, and neural
+  bases}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Frontiers in Psychology}{6}{}{193}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.frontiersin.org/article/10.3389/fpsyg.2015.00193}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.3389/fpsyg.2015.00193} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
