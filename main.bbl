@@ -1,6 +1,36 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
+Angelaki%
+}{%
+Angelaki%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+opticalflow}
+\APACinsertmetastar {%
+opticalflow}%
+\begin{APACrefauthors}%
+Angelaki, D\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {How Optic Flow and Inertial Cues Improve Motion
+  Perception} {How optic flow and inertial cues improve motion
+  perception}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cold Spring Harbor Symposia on Quantitative
+  Biology}{79}{}{141--148}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1101/sqb.2014.79.024638}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1101/sqb.2014.79.024638} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Barlow%
 \ \BBA {} Levick%
 }{%
@@ -63,6 +93,29 @@ Borst, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Gibson%
+}{%
+Gibson%
+}{%
+{\protect \APACyear {1950}}%
+}]{%
+opticflowheading}
+\APACinsertmetastar {%
+opticflowheading}%
+\begin{APACrefauthors}%
+Gibson, J\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1950}.
+\newblock
+\APACrefbtitle {The perception of the visual world.} {The perception of the
+  visual world.}
+\newblock
+\APACaddressPublisher{Oxford, England}{Houghton Mifflin}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Palmisano%
 \ \protect \BOthers {.}}{%
 Palmisano%
@@ -100,6 +153,30 @@ Palmisano%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Raudies%
+}{%
+Raudies%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+schopticflow}
+\APACinsertmetastar {%
+schopticflow}%
+\begin{APACrefauthors}%
+Raudies, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{{\APACmonth{01}}}{}.
+\newblock
+\APACrefbtitle {Scholarpedia: optic flow.} {Scholarpedia: optic flow.}
+\newblock
+\begin{APACrefURL}
+  \url{http://www.scholarpedia.org/article/Optic_flow#Initial_optic_flow_detection_and_processing}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Reichardt%
 }{%
 Reichardt%
@@ -119,6 +196,65 @@ Reichardt, W.%
 \APACrefbtitle {Autocorrelation, a Principle for the Evaluation of Sensory
   Information by the Central Nervous System.} {Autocorrelation, a principle for
   the evaluation of sensory information by the central nervous system.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Seno%
+, Ito%
+\BCBL {}\ \BBA {} Sunaga%
+}{%
+Seno%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2009}}%
+}]{%
+vection}
+\APACinsertmetastar {%
+vection}%
+\begin{APACrefauthors}%
+Seno, T.%
+, Ito, H.%
+\BCBL {}\ \BBA {} Sunaga, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The object and background hypothesis for vection} {The
+  object and background hypothesis for vection}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Vision Research}{49}{24}{2973 - 2982}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.sciencedirect.com/science/article/pii/S0042698909004350}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{https://doi.org/10.1016/j.visres.2009.09.017}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wurtz%
+}{%
+Wurtz%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+schcd}
+\APACinsertmetastar {%
+schcd}%
+\begin{APACrefauthors}%
+Wurtz, R\BPBI H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{{\APACmonth{01}}}{}.
+\newblock
+\APACrefbtitle {Scholarpedia: corollary discharge in primate vision.}
+  {Scholarpedia: corollary discharge in primate vision.}
+\newblock
+\begin{APACrefURL}
+  \url{http://www.scholarpedia.org/article/Corollary_discharge_in_primate_vision#Interpreting_sensory_input}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

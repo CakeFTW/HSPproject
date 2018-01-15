@@ -3,5 +3,10 @@ The style file: apacite.bst
 Database file #1: include/backmatter/bibliography.bib
 Warning--entry type for "beetle" isn't style-file defined
 --line 15 of file include/backmatter/bibliography.bib
+Warning--entry type for "schcd" isn't style-file defined
+--line 98 of file include/backmatter/bibliography.bib
+Warning--entry type for "schopticflow" isn't style-file defined
+--line 105 of file include/backmatter/bibliography.bib
+Warning--I didn't find a database entry for "opticalflowheading"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-(There was 1 warning)
+(There were 4 warnings)

@@ -1,6 +1,7 @@
 \BOOKMARK [1][-]{section.1}{Introduction - what is vection}{}% 1
 \BOOKMARK [1][-]{section.2}{What is vection?}{}% 2
-\BOOKMARK [1][-]{section.3}{Theory}{}% 3
-\BOOKMARK [2][-]{subsection.3.1}{Vision based motion detection}{section.3}% 4
-\BOOKMARK [2][-]{subsection.3.2}{Direction sensitive neurons}{section.3}% 5
-\BOOKMARK [1][-]{subsection.3.2}{References}{}% 6
+\BOOKMARK [1][-]{section.3}{Theory of optic flow}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Optic flow}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Vision based motion detection}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Optic flow as a mechanism for illusory self motion}{}% 6
+\BOOKMARK [1][-]{section*.12}{References}{}% 7
