@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.16)  15 JAN 2018 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.16)  15 JAN 2018 17:44
 entering extended mode
 **./main.tex
 (main.tex
@@ -1847,6 +1847,46 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count378
 )
 LaTeX Info: Redefining \BBA on input line 4.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty"
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty"
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box104
+)
+\tc@llx=\dimen341
+\tc@lly=\dimen342
+\tc@urx=\dimen343
+\tc@ury=\dimen344
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def"
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen345
+\adjbox@Height=\dimen346
+\adjbox@Depth=\dimen347
+\adjbox@Totalheight=\dimen348
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count379
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box105
+\sift@deathcycles=\count380
+\@vwid@loff=\dimen349
+\@vwid@roff=\dimen350
+))
 runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > ma
 in.aex <nul: /p x=^%~$PATH:i>> main.aex)...executed.
 
@@ -1855,48 +1895,48 @@ runsystem(del main.aex)...executed.
  (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 6.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 5.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 6.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 5.
+(lastpage)             ! on input line 6.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count379
-\scratchdimen=\dimen341
-\scratchbox=\box104
-\nofMPsegments=\count380
-\nofMParguments=\count381
+\scratchcounter=\count381
+\scratchdimen=\dimen351
+\scratchbox=\box106
+\nofMPsegments=\count382
+\nofMParguments=\count383
 \everyMPshowfont=\toks55
-\MPscratchCnt=\count382
-\MPscratchDim=\dimen342
-\MPnumerator=\count383
-\makeMPintoPDFobject=\count384
+\MPscratchCnt=\count384
+\MPscratchDim=\dimen352
+\MPnumerator=\count385
+\makeMPintoPDFobject=\count386
 \everyMPtoPDFconversion=\toks56
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1918,7 +1958,7 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count385
+\c@lstlisting=\count387
 
 ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
@@ -1955,11 +1995,11 @@ ABD: EveryShipout initializing macros
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box105
-Package hyperref Info: Link coloring ON on input line 5.
-LaTeX Info: Redefining \ref on input line 5.
-LaTeX Info: Redefining \pageref on input line 5.
-LaTeX Info: Redefining \nameref on input line 5.
+\AtBeginShipoutBox=\box107
+Package hyperref Info: Link coloring ON on input line 6.
+LaTeX Info: Redefining \ref on input line 6.
+LaTeX Info: Redefining \pageref on input line 6.
+LaTeX Info: Redefining \nameref on input line 6.
 (main.out) (main.out)
 \@outlinefile=\write8
 \openout8 = `main.out'.
@@ -1976,7 +2016,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.15} (current compat level: 1.11).
 
-\c@maskedRefs=\count386
+\c@maskedRefs=\count388
 ("C:\Program Files\MiKTeX 2.9\tex\latex\apacite\english.apc"
 File: english.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 129.
@@ -2015,7 +2055,7 @@ LaTeX Info: Redefining \BHBI on input line 130.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<figure/Frontpage/poster.png, id=45, 1509.64pt x 1284.8pt>
+<figure/Frontpage/poster.png, id=41, 1509.64pt x 1284.8pt>
 File: figure/Frontpage/poster.png Graphic file (type png)
 <use figure/Frontpage/poster.png>
 Package pdftex.def Info: figure/Frontpage/poster.png  used on input line 13. on
@@ -2042,7 +2082,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--26
 
  []
 
-<figure/Frontpage/frontpage-aau.pdf, id=46, pagebox=cropbox, 2489.21962pt x 352
+<figure/Frontpage/frontpage-aau.pdf, id=42, pagebox=cropbox, 2489.21962pt x 352
 0.99449pt>
 File: figure/Frontpage/frontpage-aau.pdf Graphic file (type pdf)
 <use figure/Frontpage/frontpage-aau.pdf>
@@ -2056,18 +2096,18 @@ e 30.
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./figure/Frontpage/frontp
 age-aau.pdf> <./figure/Frontpage/poster.png>])
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 9.
+ine 10.
 
 
 LaTeX Warning: Marginpar on page 1 moved.
 
-<figure/eyes.png, id=65, 398.4486pt x 199.2243pt>
+<figure/eyes.png, id=61, 398.4486pt x 199.2243pt>
 File: figure/eyes.png Graphic file (type png)
 <use figure/eyes.png>
-Package pdftex.def Info: figure/eyes.png  used on input line 32. on input line 
-32.
+Package pdftex.def Info: figure/eyes.png  used on input line 33. on input line 
+33.
 Package pdftex.def Info: Requested size: 341.43437pt x 170.71854pt on input lin
-e 32.
+e 33.
 
 LaTeX Warning: Marginpar on page 1 moved.
 
@@ -2075,79 +2115,115 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.36 I
+l.37 I
       n all cases, global changes happens to the light their eyes receive. I...
 [1]
-<figure/opticalflow.png, id=86, 250.0542pt x 143.0946pt>
+<figure/opticalflow.png, id=82, 250.0542pt x 143.0946pt>
 File: figure/opticalflow.png Graphic file (type png)
 <use figure/opticalflow.png>
-Package pdftex.def Info: figure/opticalflow.png  used on input line 39. on inpu
-t line 39.
+Package pdftex.def Info: figure/opticalflow.png  used on input line 40. on inpu
+t line 40.
 Package pdftex.def Info: Requested size: 341.43437pt x 195.40302pt on input lin
-e 39.
+e 40.
 
 
 Package natbib Warning: Citation `opticalflowheading' on page 2 undefined on in
-put line 44.
+put line 45.
 
 [2 <./figure/eyes.png> <./figure/opticalflow.png>]
-<figure/overtime.png, id=106, 398.4486pt x 147.9126pt>
+<figure/overtime.png, id=102, 398.4486pt x 147.9126pt>
 File: figure/overtime.png Graphic file (type png)
 <use figure/overtime.png>
-Package pdftex.def Info: figure/overtime.png  used on input line 49. on input l
-ine 49.
+Package pdftex.def Info: figure/overtime.png  used on input line 50. on input l
+ine 50.
 Package pdftex.def Info: Requested size: 426.79135pt x 158.43643pt on input lin
-e 49.
+e 50.
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+Package caption Warning: \label without proper reference on input line 62.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:nodelay' on page 3 undefined on input line 55.
+
+<figure/model1.png, id=110, 284.7438pt x 227.8914pt>
+File: figure/model1.png Graphic file (type png)
+<use figure/model1.png>
+Package pdftex.def Info: figure/model1.png  used on input line 58. on input lin
+e 58.
+Package pdftex.def Info: Requested size: 208.39568pt x 166.79053pt on input lin
+e 58.
+<figure/model2.png, id=111, 284.7438pt x 227.8914pt>
+File: figure/model2.png Graphic file (type png)
+<use figure/model2.png>
+Package pdftex.def Info: figure/model2.png  used on input line 60. on input lin
+e 60.
+Package pdftex.def Info: Requested size: 208.39568pt x 166.79053pt on input lin
+e 60.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]\T1/lmr/m/n/10.95 Figure 4: |This cuir-cuit can blablababla-bal-ablablal-bal-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--55
+LaTeX Warning: Reference `delay' on page 3 undefined on input line 65.
+
+<figure/model3.png, id=114, 284.7438pt x 227.8914pt>
+File: figure/model3.png Graphic file (type png)
+<use figure/model3.png>
+Package pdftex.def Info: figure/model3.png  used on input line 68. on input lin
+e 68.
+Package pdftex.def Info: Requested size: 208.39568pt x 166.79053pt on input lin
+e 68.
+<figure/model4.png, id=115, 284.7438pt x 227.8914pt>
+File: figure/model4.png Graphic file (type png)
+<use figure/model4.png>
+Package pdftex.def Info: figure/model4.png  used on input line 70. on input lin
+e 70.
+Package pdftex.def Info: Requested size: 208.39568pt x 166.79053pt on input lin
+e 70.
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]\T1/lmr/m/n/10.95 Figure 5: |This cuir-cuit can blablababla-bal-ablablal-bal-
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--55
+Underfull \hbox (badness 10000) in paragraph at lines 54--74
 
  []
 
 [3 <./figure/overtime.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 56--59
+
+Package caption Warning: \label without proper reference on input line 72.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:delay' on page 4 undefined on input line 75.
+
+[4 <./figure/model1.png> <./figure/model2.png> <./figure/model3.png> <./figure/
+model4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 77--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--65
+Underfull \hbox (badness 10000) in paragraph at lines 77--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--65
+Underfull \hbox (badness 10000) in paragraph at lines 77--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--65
+Underfull \hbox (badness 10000) in paragraph at lines 77--84
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--65
-
- []
-
-[4]
-
-LaTeX Warning: Marginpar on page 5 moved.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--71
-
- []
-
-(main.bbl
+[5] (main.bbl
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 27.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -2189,7 +2265,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 27.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [5]
+) [6]
 Underfull \hbox (badness 3343) in paragraph at lines 201--213
 []\T1/lmr/m/n/10.95 Raudies, F.  (2013, Jan-uary).  \T1/lmr/m/it/10.95 Schol-ar
 -pe-dia: op-tic flow.  \T1/lmr/m/n/10.95 Re-trieved from
@@ -2203,23 +2279,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 201--213
 
 ) 
 AED: lastpage setting LastPage
-[6]
+[7]
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
 (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2920E058C6C071EB342079349B820A88;653.
+(rerunfilecheck)             Checksum: F7F0289126865C3D8A63093D488EB18E;585.
+
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 45468 strings out of 493312
- 999232 string characters out of 3138895
- 1375503 words of memory out of 3000000
- 48202 multiletter control sequences out of 15000+200000
+ 45977 strings out of 493312
+ 1007481 string characters out of 3138895
+ 1367503 words of memory out of 3000000
+ 48684 multiletter control sequences out of 15000+200000
  591664 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,13n,96p,10448b,720s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2232,9 +2312,9 @@ onts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/l
 m/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (7 pages, 3707302 bytes).
+Output written on main.pdf (8 pages, 3795589 bytes).
 PDF statistics:
- 232 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 118 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 240 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 500000)
+ 130 words of extra memory for PDF output out of 10000 (max. 10000000)
 
