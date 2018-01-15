@@ -116,6 +116,41 @@ Gibson, J\BPBI J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Ito%
+\ \BBA {} Shibata%
+}{%
+Ito%
+\ \BBA {} Shibata%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+vectionlinear}
+\APACinsertmetastar {%
+vectionlinear}%
+\begin{APACrefauthors}%
+Ito, H.%
+\BCBT {}\ \BBA {} Shibata, I.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Self-motion perception from expanding and contracting
+  optical flows overlapped with binocular disparity} {Self-motion perception
+  from expanding and contracting optical flows overlapped with binocular
+  disparity}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Vision Research}{45}{4}{397 - 402}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.sciencedirect.com/science/article/pii/S0042698904005838}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{https://doi.org/10.1016/j.visres.2004.11.009}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Palmisano%
 \ \protect \BOthers {.}}{%
 Palmisano%
@@ -199,6 +234,45 @@ Reichardt, W.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Riecke%
+, Feuereissen%
+, Rieser%
+\BCBL {}\ \BBA {} McNamara%
+}{%
+Riecke%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+movement}
+\APACinsertmetastar {%
+movement}%
+\begin{APACrefauthors}%
+Riecke, B\BPBI E.%
+, Feuereissen, D.%
+, Rieser, J\BPBI J.%
+\BCBL {}\ \BBA {} McNamara, T\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Spatialized Sound Enhances Biomechanically-induced
+  Self-motion Illusion (Vection)} {Spatialized sound enhances
+  biomechanically-induced self-motion illusion (vection)}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems} {Proceedings of the sigchi conference on human factors in
+  computing systems}\ (\BPGS\ 2799--2802).
+\newblock
+\APACaddressPublisher{New York, NY, USA}{ACM}.
+\newblock
+\begin{APACrefURL} \url{http://doi.acm.org/10.1145/1978942.1979356}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1145/1978942.1979356} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Seno%
 , Ito%
 \BCBL {}\ \BBA {} Sunaga%
@@ -229,6 +303,70 @@ Seno, T.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{https://doi.org/10.1016/j.visres.2009.09.017}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tanahashi%
+, Ashihara%
+\BCBL {}\ \BBA {} Ujike%
+}{%
+Tanahashi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+wind}
+\APACinsertmetastar {%
+wind}%
+\begin{APACrefauthors}%
+Tanahashi, S.%
+, Ashihara, K.%
+\BCBL {}\ \BBA {} Ujike, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{jun}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Effects of auditory information on self-motion
+  perception during simultaneous presentation of visual shearing motion}
+  {Effects of auditory information on self-motion perception during
+  simultaneous presentation of visual shearing motion}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Frontiers in Psychology}{6}{}{}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.3389/fpsyg.2015.00749}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.3389/fpsyg.2015.00749} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Väljamäe%
+}{%
+Väljamäe%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+auditory}
+\APACinsertmetastar {%
+auditory}%
+\begin{APACrefauthors}%
+Väljamäe, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Auditorily-induced illusory self-motion: A review}
+  {Auditorily-induced illusory self-motion: A review}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Brain Research Reviews}{61}{2}{240 - 255}.
+\newblock
+\begin{APACrefURL}
+  \url{http://www.sciencedirect.com/science/article/pii/S0165017309000769}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{https://doi.org/10.1016/j.brainresrev.2009.07.001}
   \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
