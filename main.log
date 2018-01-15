@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.16)  15 JAN 2018 17:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.16)  15 JAN 2018 20:23
 entering extended mode
 **./main.tex
 (main.tex
@@ -2096,134 +2096,103 @@ e 30.
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./figure/Frontpage/frontp
 age-aau.pdf> <./figure/Frontpage/poster.png>])
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 10.
-
-
-LaTeX Warning: Marginpar on page 1 moved.
-
+ine 29.
 <figure/eyes.png, id=61, 398.4486pt x 199.2243pt>
 File: figure/eyes.png Graphic file (type png)
 <use figure/eyes.png>
-Package pdftex.def Info: figure/eyes.png  used on input line 33. on input line 
-33.
-Package pdftex.def Info: Requested size: 341.43437pt x 170.71854pt on input lin
-e 33.
-
-LaTeX Warning: Marginpar on page 1 moved.
-
+Package pdftex.def Info: figure/eyes.png  used on input line 32. on input line 
+32.
+Package pdftex.def Info: Requested size: 298.75264pt x 149.37834pt on input lin
+e 32.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.37 I
-      n all cases, global changes happens to the light their eyes receive. I...
+l.36 I
+      n all cases, global changes happens to the light that the eyes receive...
 [1]
-<figure/opticalflow.png, id=82, 250.0542pt x 143.0946pt>
+<figure/opticalflow.png, id=79, 250.0542pt x 143.0946pt>
 File: figure/opticalflow.png Graphic file (type png)
 <use figure/opticalflow.png>
-Package pdftex.def Info: figure/opticalflow.png  used on input line 40. on inpu
-t line 40.
+Package pdftex.def Info: figure/opticalflow.png  used on input line 39. on inpu
+t line 39.
 Package pdftex.def Info: Requested size: 341.43437pt x 195.40302pt on input lin
-e 40.
-
-
-Package natbib Warning: Citation `opticalflowheading' on page 2 undefined on in
-put line 45.
-
-[2 <./figure/eyes.png> <./figure/opticalflow.png>]
-<figure/overtime.png, id=102, 398.4486pt x 147.9126pt>
+e 39.
+ [2 <./figure/eyes.png> <./figure/opticalflow.png>]
+<figure/overtime.png, id=100, 398.4486pt x 147.9126pt>
 File: figure/overtime.png Graphic file (type png)
 <use figure/overtime.png>
-Package pdftex.def Info: figure/overtime.png  used on input line 50. on input l
-ine 50.
+Package pdftex.def Info: figure/overtime.png  used on input line 49. on input l
+ine 49.
 Package pdftex.def Info: Requested size: 426.79135pt x 158.43643pt on input lin
-e 50.
-
-
-Package caption Warning: \label without proper reference on input line 62.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:nodelay' on page 3 undefined on input line 55.
-
-<figure/model1.png, id=110, 284.7438pt x 227.8914pt>
+e 49.
+<figure/model1.png, id=108, 284.7438pt x 227.8914pt>
 File: figure/model1.png Graphic file (type png)
 <use figure/model1.png>
-Package pdftex.def Info: figure/model1.png  used on input line 58. on input lin
-e 58.
+Package pdftex.def Info: figure/model1.png  used on input line 57. on input lin
+e 57.
 Package pdftex.def Info: Requested size: 208.39568pt x 166.79053pt on input lin
-e 58.
-<figure/model2.png, id=111, 284.7438pt x 227.8914pt>
+e 57.
+<figure/model2.png, id=109, 284.7438pt x 227.8914pt>
 File: figure/model2.png Graphic file (type png)
 <use figure/model2.png>
-Package pdftex.def Info: figure/model2.png  used on input line 60. on input lin
-e 60.
+Package pdftex.def Info: figure/model2.png  used on input line 59. on input lin
+e 59.
 Package pdftex.def Info: Requested size: 208.39568pt x 166.79053pt on input lin
-e 60.
+e 59.
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
-[]\T1/lmr/m/n/10.95 Figure 4: |This cuir-cuit can blablababla-bal-ablablal-bal-
-
- []
-
-
-LaTeX Warning: Reference `delay' on page 3 undefined on input line 65.
-
-<figure/model3.png, id=114, 284.7438pt x 227.8914pt>
-File: figure/model3.png Graphic file (type png)
-<use figure/model3.png>
-Package pdftex.def Info: figure/model3.png  used on input line 68. on input lin
-e 68.
-Package pdftex.def Info: Requested size: 208.39568pt x 166.79053pt on input lin
-e 68.
-<figure/model4.png, id=115, 284.7438pt x 227.8914pt>
-File: figure/model4.png Graphic file (type png)
-<use figure/model4.png>
-Package pdftex.def Info: figure/model4.png  used on input line 70. on input lin
-e 70.
-Package pdftex.def Info: Requested size: 208.39568pt x 166.79053pt on input lin
-e 70.
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[]\T1/lmr/m/n/10.95 Figure 5: |This cuir-cuit can blablababla-bal-ablablal-bal-
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--74
+Underfull \hbox (badness 10000) in paragraph at lines 53--63
 
  []
 
 [3 <./figure/overtime.png>]
+<figure/model3.png, id=121, 284.7438pt x 227.8914pt>
+File: figure/model3.png Graphic file (type png)
+<use figure/model3.png>
+Package pdftex.def Info: figure/model3.png  used on input line 67. on input lin
+e 67.
+Package pdftex.def Info: Requested size: 208.39568pt x 166.79053pt on input lin
+e 67.
+<figure/model4.png, id=122, 284.7438pt x 227.8914pt>
+File: figure/model4.png Graphic file (type png)
+<use figure/model4.png>
+Package pdftex.def Info: figure/model4.png  used on input line 69. on input lin
+e 69.
+Package pdftex.def Info: Requested size: 208.39568pt x 166.79053pt on input lin
+e 69.
+ [4 <./figure/model1.png> <./figure/model2.png>]
+<figure/model5.png, id=131, 284.7438pt x 227.8914pt>
+File: figure/model5.png Graphic file (type png)
+<use figure/model5.png>
+Package pdftex.def Info: figure/model5.png  used on input line 77. on input lin
+e 77.
+Package pdftex.def Info: Requested size: 208.39568pt x 166.79053pt on input lin
+e 77.
+<figure/model6.png, id=132, 284.7438pt x 227.8914pt>
+File: figure/model6.png Graphic file (type png)
+<use figure/model6.png>
+Package pdftex.def Info: figure/model6.png  used on input line 79. on input lin
+e 79.
+Package pdftex.def Info: Requested size: 208.39568pt x 166.79053pt on input lin
+e 79.
 
-Package caption Warning: \label without proper reference on input line 72.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `fig:delay' on page 4 undefined on input line 75.
-
-[4 <./figure/model1.png> <./figure/model2.png> <./figure/model3.png> <./figure/
-model4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 77--84
+[5 <./figure/model3.png> <./figure/model4.png> <./figure/model5.png> <./figure/
+model6.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 86--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--84
+Underfull \hbox (badness 10000) in paragraph at lines 86--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--84
+Underfull \hbox (badness 10000) in paragraph at lines 86--91
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--84
-
- []
-
-[5] (main.bbl
+[6] (main.bbl
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 27.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -2265,7 +2234,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 27.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [6]
+)
 Underfull \hbox (badness 3343) in paragraph at lines 201--213
 []\T1/lmr/m/n/10.95 Raudies, F.  (2013, Jan-uary).  \T1/lmr/m/it/10.95 Schol-ar
 -pe-dia: op-tic flow.  \T1/lmr/m/n/10.95 Re-trieved from
@@ -2277,44 +2246,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 201--213
  [] []flow # Initial [] []optic [] []flow []
  []
 
-) 
+[7]) 
 AED: lastpage setting LastPage
-[7]
-
-Package natbib Warning: There were undefined citations.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
-(main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
+[8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F7F0289126865C3D8A63093D488EB18E;585.
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 45977 strings out of 493312
- 1007481 string characters out of 3138895
- 1367503 words of memory out of 3000000
- 48684 multiletter control sequences out of 15000+200000
- 591664 words of font info for 65 fonts, out of 3000000 for 9000
+ 45960 strings out of 493312
+ 1007086 string characters out of 3138895
+ 1363503 words of memory out of 3000000
+ 48667 multiletter control sequences out of 15000+200000
+ 592940 words of font info for 65 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,13n,96p,10448b,720s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbxi10.pfb><C:/Program 
-Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/l
-m/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (8 pages, 3795589 bytes).
+public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbxi10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/l
+m/lmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on main.pdf (9 pages, 3863475 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
- 130 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 245 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 140 words of extra memory for PDF output out of 10000 (max. 10000000)
 
